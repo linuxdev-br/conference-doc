@@ -10,16 +10,12 @@ Este repositório contém conhecimentos e informaçÕes que a gente construi ao 
 
 [Financeiro](financeiro.md): Gerência financeira, pagamentos e recebimentos.
 
-[Website](website.md): Fazemos hospedagem própria do site e sistema CFP.
-
 [Programa](programa.md): Do CFP até a montagem da grade de programação.
 
 [Inscrição](inscricao.md): Detalha nosso processo de incrição.
 
 [Marketing](marketing.md): Intruções sobre nosso plano e inicitivas de marketing.
 
-[Domínio de internet](dominio.md): Info sobre linuxdev-br.net e alias de e-mail.
+[Infraestrura](infra.md): Info sobre linuxdev-br.net e alias de e-mail e listas de e-mails, website e sistema  de CFP.
 
-[Listas de e-mail](listas.md): Nossas listas de e-mail
-
-[Pasta de Documentos](link): Nós temos pasta de documentos no Google Drive.
+[Pasta de Documentos](https://drive.google.com/drive/folders/0B7UFSRm5Zv8kQl9vRnEyTExlUGc?usp=sharing): Nós temos pasta de documentos no Google Drive.
