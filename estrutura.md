@@ -42,15 +42,21 @@ Quem? *Gabriel F. T. Gomes*
 
 Responsável pela criação e execução, do CFP, revisão de submissões e agenda do evento. Pode delegar funções e tarefas.
 
-#### **Diretora de Marketing**
+#### *Coordenação de Comunicação e Marketing**
 
-Quem? *Helen Koike*
+Quem?
 
-Responsável por definir conteúdo, audiência, data e duração das campanhas de Marketing. Delega ou executa diretamente as tarefas e funções.
+Responsável por garantir que comunicação com participantes e/ou sponsors aconteça. Veja [comunicacao.md]() pra uma definição de Comunicação e Marketing.
+
+* Pró-atividade propondo iniciativas comunicação.
+* Pode cuidar iniciativas vindas do Board.
+* Recebe do board instruções de como criar cada campanha e/ou sugere opçòes.
+* Coordena execeção de comunicação com outros envolvidos (por exemplo, outras pessoas podem ser reponsáveis por fazer certas comuniçãos, como mandar mensagem em grupos de facebook, ou falar com comunidades, mas é pessoa responsável por Coordenação de Comunicação e Marketing que coordena).
+* Garente que o site e sistema de vendas de Entradas tenham as informações necessàrias.
 
 #### Papéis indefinidos
 
-Outros papéis ainda estão de alguma maneira indefinidos, dentre eles: Relacionamento com Patrocinadores, Comunicação, Infraestrutura online, Logistica (área com várias subáreas), Inscrições, Conteúdo (pro site e Marketing), etc. (TODO: expandir e definir melhor)
+Outros papéis ainda estão de alguma maneira indefinidos, dentre eles: Relacionamento com Patrocinadores, Infraestrutura online, Logistica (área com várias subáreas), Inscrições, etc. (TODO: expandir e definir melhor)
 
 Ainda tem muito conhecimento de todas as áreas acima que basicamente só existem dentro da cabeça do Gustavo Padovan. Passo a passo pretendemos documentar tudo.
 
