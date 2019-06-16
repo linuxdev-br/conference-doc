@@ -18,6 +18,6 @@ Este repositório contém conhecimentos e informaçÕes que a gente construi ao 
 
 [Comunicação e Marketing](comunicacao.md): Sobre como cuidamos de inicitivas de Comunição e Marketing com o público alvo.
 
-[Infraestrura](infra.md): Info sobre linuxdev-br.net e alias de e-mail e listas de e-mails, website e sistema  de CFP.
+[Infraestrutura](infra.md): Info sobre linuxdev-br.net e alias de e-mail e listas de e-mails, website e sistema  de CFP.
 
 [Pasta de Documentos](https://drive.google.com/drive/folders/0B7UFSRm5Zv8kQl9vRnEyTExlUGc?usp=sharing): Nós temos pasta de documentos no Google Drive.
