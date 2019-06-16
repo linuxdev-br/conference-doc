@@ -1,13 +1,16 @@
-# indentidade
+# Identidade
 
 O logo foi construído na idéia de communidade.
 
-## nossas cores
+Veja a pasta [Visuais](https://drive.google.com/drive/folders/1TLY34j6RGuBSuLb9Au8l4FIPlwxLpDj2?usp=sharing).
+
+## Nossas cores
 
 Verde: #01823c
 
 Amarelo: #f7b032
 
-## nosso logo
+## Nosso logo
 
-Veja a pasta [logos/](logos/).
+Veja a pasta [logos/](logos/) neste repo.
+
