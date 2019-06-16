@@ -2,6 +2,8 @@
 
 Este repositório contém conhecimentos e informaçÕes que a gente construi ao longo do tempo. Nosso objetivo é manter as informaçòes públicas aqui e deixar links pra documentos privados quando necessário.
 
+[Missão](missao.md): Nossa missão (em inglês).
+
 [Estrutura de Organização](estrutura.md): Fala sobre como nos organizamos e papéis.
 
 [Identidade](identidade.md): Nossa indentidade visual, cores, logos, etc.
