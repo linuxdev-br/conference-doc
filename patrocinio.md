@@ -4,6 +4,10 @@
 
 Nosso [sponsorship prospectus](https://drive.google.com/open?id=1LB6kG72pypIjTGs3apLYR45MFrB4iYPAfx_4nCHznqs).
 
+### Contatos de patrocinadores antigos e atuais
+
+Temos uma pasta [Patrocínio](https://drive.google.com/drive/folders/1uStlqZzUjq7icEXMd4qbqz5De2feECpW?usp=sharing) no Drive.
+
 ## Patrocínio Fechado
 
 Consideramos um patrocínio fechado quando algum dos eventos abaixo acontecem:
