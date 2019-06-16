@@ -10,6 +10,16 @@ A maior parte das discussões acontece nas reuniões, lista de e-mail do Board, 
 
 Temos um [Trello](https://trello.com/b/m1lGPGE3/linuxdev-br-2019).
 
+### Board
+
+O Board 2019 é composto por:
+* Bruno Dilly
+* Gabriel F. T. Gomes
+* Gustavo Padovan
+* João Moreira
+
+As principais e mais importantes decisões são tomadas pelo Board. Cabe ao Diretor Executivo garantir a execuçào.
+
 ### Papéis
 
 Nesse momento nós temos 3 papéis bem definidos:
