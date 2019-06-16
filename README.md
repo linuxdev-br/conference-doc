@@ -14,7 +14,7 @@ Este repositório contém conhecimentos e informaçÕes que a gente construi ao 
 
 [Inscrição](inscricao.md): Detalha nosso processo de incrição.
 
-[Marketing](marketing.md): Intruções sobre nosso plano e inicitivas de marketing.
+[Comunicação e Marketing](comunicacao.md): Sobre como cuidamos de inicitivas de Comunição e Marketing com o público alvo.
 
 [Infraestrura](infra.md): Info sobre linuxdev-br.net e alias de e-mail e listas de e-mails, website e sistema  de CFP.
 
