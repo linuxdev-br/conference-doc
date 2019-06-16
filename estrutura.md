@@ -2,7 +2,7 @@
 
 Com o passar do tempo nosso time tem crescido e alguns papéis tem se estabelido mais claramente.
 
-### Comunicação
+### Meios de Comunicação
 
 A maior parte das discussões acontece nas reuniões, lista de e-mail do Board, ou grupo do Telegram.
 
@@ -18,7 +18,7 @@ O Board 2019 é composto por:
 * Gustavo Padovan
 * João Moreira
 
-As principais e mais importantes decisões são tomadas pelo Board. Cabe ao Diretor Executivo garantir a execuçào.
+As principais e mais importantes decisões são tomadas pelo Board. Cabe ao Diretor Executivo garantir a execução das tarefas.
 
 ### Papéis
 

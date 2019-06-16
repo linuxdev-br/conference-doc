@@ -27,7 +27,11 @@ Nós usamos o [pretalx](https://github.com/pretalx/pretalx) instalado numa inst�
 * submissions@ -> linuxdev-br@googlegroups.com
 * volunteers@ -> linuxdev-br-volunteers@googlegroups.com
 
-## Google groups
+## Grupos de e-mail
 
 * Grupo do Board: linuxdev-br@googlegroups.com
 * Grupo pra Voluntários: linuxdev-br-volunteers@googlegroups.com
+
+## Telegram
+
+Temos um grupo do board no Telegram. Fale com alguém do Board pra ser adicionado.
