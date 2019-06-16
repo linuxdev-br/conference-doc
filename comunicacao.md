@@ -100,3 +100,7 @@ Temos uma lista de comunidades e grupos numa [planilha](https://docs.google.com/
 ### Grupos de Facebook
 
 Temos uma lista de grupos de Facebook numa [planilha](https://docs.google.com/spreadsheets/d/1XJcZ1NAEZJTd1Az_nOQkYdFAjDmXWJ51bDxoYyGP8pE/edit?usp=sharing).
+
+## Como fazer uma divulgação
+
+WIP
