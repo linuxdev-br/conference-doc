@@ -4,7 +4,7 @@ Com o passar do tempo nosso time tem crescido e alguns papéis tem se estabelido
 
 ### Comunicação
 
-A maior parte das discussões acontece nas reuniões, lista de e-mail do Board, ou chat do hangouts.
+A maior parte das discussões acontece nas reuniões, lista de e-mail do Board, ou grupo do Telegram.
 
 ### Gerenciamento de Tarefas
 
