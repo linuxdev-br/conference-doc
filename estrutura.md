@@ -42,7 +42,7 @@ Quem? *Gabriel F. T. Gomes*
 
 Responsável pela criação e execução, do CFP, revisão de submissões e agenda do evento. Pode delegar funções e tarefas.
 
-#### *Coordenação de Comunicação e Marketing**
+#### **Coordenação de Comunicação e Marketing**
 
 Quem?
 
