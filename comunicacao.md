@@ -17,10 +17,20 @@ Iniciativas de Marketing:
 
 * Campanhas pagas em Redes Sociais
 
+## Comunicações importantes
+
+Alguns acontecimentos são importantes e requerem divulgação ampla em todos os meios. São eles:
+
+* anúncio das datas e local da próxima edição
+* anúncio do início do CFP
+* anúncio da extensão do CFP
+* anúncio da agenda
+* anúncio geral faltando 30 dias pro evento
+* anúncio geral faltando 15 dias pro evento
+
 ## Identidade
 
 Veja [identidade.md]().
-
 
 ## Publico alvo
 
@@ -91,11 +101,15 @@ Nós temos uma conta no [MailChimp](https://mailchimp.com/). Informações de ac
 
 ### Parceiros de Mídia
 
-Temos uma lista de parceiros numa [planilha](https://docs.google.com/spreadsheets/d/1XJcZ1NAEZJTd1Az_nOQkYdFAjDmXWJ51bDxoYyGP8pE/edit?usp=sharing).
+Temos uma lista de parceiros numa [planilha](https://docs.google.com/spreadsheets/d/1XJcZ1NAEZJTd1Az_nOQkYdFAjDmXWJ51bDxoYyGP8pE/edit?usp=sharing). 
+
+Coloque o texto no corpo do e-mail com uma introdução no topo pra pedir que divulguem. Anexe logos e banners (identidade visual). No *To:* do e-mail coloque o board@ e no *Bcc:* os contatos.
 
 ### Comunidades e Grupos
 
 Temos uma lista de comunidades e grupos numa [planilha](https://docs.google.com/spreadsheets/d/1XJcZ1NAEZJTd1Az_nOQkYdFAjDmXWJ51bDxoYyGP8pE/edit?usp=sharing).
+
+Coloque o texto no corpo do e-mail e links no formato footer (por exemplo "[1]"). No *To:* do e-mail coloque o board@ e no *Bcc:* os contatos.
 
 ### Grupos de Facebook
 
