@@ -23,9 +23,14 @@ NÃ³s usamos o [pretalx](https://github.com/pretalx/pretalx) instalado numa instÃ
 
 * board@ -> linuxdev-br@googlegroups.com
 * contact@ -> linuxdev-br@googlegroups.com
-* cfp@ -> linuxdev-br@googlegroups.com
 * submissions@ -> linuxdev-br@googlegroups.com
 * volunteers@ -> linuxdev-br-volunteers@googlegroups.com
+
+### mailbox no gandi.net
+
+Pro nosso sistema de CFP mandar e-mail a gente precisa de um mailbox.
+
+* cfp@ - Acesse pelo [webmail](https://webmail.gandi.net/SOGo/). Veja arquivo Acessos no Google Drive.  Tem um forward configurado para board@
 
 ## Grupos de e-mail
 
