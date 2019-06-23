@@ -117,4 +117,19 @@ Temos uma lista de grupos de Facebook numa [planilha](https://docs.google.com/sp
 
 ## Como fazer uma divulgação
 
-WIP
+### Redes Sociais
+
+Para a divulgação, utilizaos uma ferramenta chamada
+[buffer](https://buffer.com/). As infomações de acesso estão no Google Drive. Uma vez logado no site, temos apenas dois passos:
+
+1. Clique na caixa escrito `What would you like to share?`.
+
+![Alt text](figuras/procedimento_patrocinio/buffer_1.png?raw=true "Publisher")
+
+2. Clique nos círculos com a logo do Linkedin, Twitter e Facebook para divulgar
+   nessas redes. Em seguida digite a mensagem que será usada para divulgação.
+
+![Alt text](figuras/procedimento_patrocinio/buffer_2.png?raw=true "Message")
+
+3. Por fim, você deve mandar submeter a divulgação. Note que você pode agendar
+   a divulgação para acontecer no exato momento ou em outro dia.
