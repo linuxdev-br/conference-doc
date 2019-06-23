@@ -2,7 +2,7 @@
 
 ## Prospecção de Patrocínio
 
-Nosso [sponsorship prospectus](https://drive.google.com/open?id=1LB6kG72pypIjTGs3apLYR45MFrB4iYPAfx_4nCHznqs).
+Nosso [sponsorship prospectus](https://drive.google.com/open?id=1LB6kG72pypIjTGs3apLYR45MFrB4iYPAfx_4nCHznqs) e em [pdf](linuxdev-br_2019-sponsorship-prospectus-v1.pdf)
 
 ### Contatos de patrocinadores antigos e atuais
 
