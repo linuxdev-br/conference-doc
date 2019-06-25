@@ -10,7 +10,7 @@ Temos um [Console](https://console.cloud.google.com/compute/instances?project=li
 
 ## Website
 
-Wordpress rodando no servidor pessoal do Bruno Dilly, Gustavo Padovan e João Moreica. (TODO: mover pro Google Cloud)
+O site e feito em [gatsbyjs](https://www.gatsbyjs.org/) e o [source](https://github.com/linuxdev-br/site/) e [deploy](https://github.com/linuxdev-br/linuxdev-br.github.io/) estão no GitHub.
 
 ## sistema de CFP
 
