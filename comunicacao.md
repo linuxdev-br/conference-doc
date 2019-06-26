@@ -30,7 +30,7 @@ Alguns acontecimentos são importantes e requerem divulgação ampla em todos os
 
 ## Identidade
 
-Veja [identidade.md]().
+Veja [identidade.md](identidade.md).
 
 ## Publico alvo
 
@@ -124,12 +124,12 @@ Para a divulgação, utilizaos uma ferramenta chamada
 
 1. Clique na caixa escrito `What would you like to share?`.
 
-![Alt text](figuras/procedimento_patrocinio/buffer_1.png?raw=true "Publisher")
+![Alt text](figuras/buffer_1.png?raw=true "Publisher")
 
 2. Clique nos círculos com a logo do Linkedin, Twitter e Facebook para divulgar
    nessas redes. Em seguida digite a mensagem que será usada para divulgação.
 
-![Alt text](figuras/procedimento_patrocinio/buffer_2.png?raw=true "Message")
+![Alt text](figuras/buffer_2.png?raw=true "Message")
 
 3. Por fim, você deve mandar submeter a divulgação. Note que você pode agendar
    a divulgação para acontecer no exato momento ou em outro dia.
