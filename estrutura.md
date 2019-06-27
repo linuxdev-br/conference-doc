@@ -46,13 +46,13 @@ Responsável pela criação e execução, do CFP, revisão de submissões e agen
 
 Quem?
 
-Responsável por garantir que comunicação com participantes e/ou sponsors aconteça. Veja [comunicacao.md]() pra uma definição de Comunicação e Marketing.
+Responsável por garantir que comunicação com participantes e/ou sponsors aconteça. Veja [comunicacao.md](comunicacao.md) pra uma definição de Comunicação e Marketing.
 
 * Pró-atividade propondo iniciativas comunicação.
 * Pode cuidar iniciativas vindas do Board.
-* Recebe do board instruções de como criar cada campanha e/ou sugere opçòes.
+* Recebe do board instruções de como criar cada campanha e/ou sugere opções.
 * Coordena execeção de comunicação com outros envolvidos (por exemplo, outras pessoas podem ser reponsáveis por fazer certas comuniçãos, como mandar mensagem em grupos de facebook, ou falar com comunidades, mas é pessoa responsável por Coordenação de Comunicação e Marketing que coordena).
-* Garente que o site e sistema de vendas de Entradas tenham as informações necessàrias.
+* Garante que o site e sistema de vendas de Entradas tenham as informações necessárias.
 
 #### Papéis indefinidos
 

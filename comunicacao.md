@@ -87,7 +87,7 @@ Atualmente não mantida e só o Rafael Beraldo deve ter acesso.
 
 ### Site
 
-Nesse momento (16 de junho de 2019) o site está sendo refeito pela @anarute
+Pra adicionar no site tem que adicionar o texto da notícia no repo do [GitHub](https://github.com/linuxdev-br/site) dentro da pasta [blog](https://github.com/linuxdev-br/site/tree/master/src/blog)
 
 ### Telegram
 
