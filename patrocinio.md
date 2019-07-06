@@ -8,7 +8,7 @@ Nosso [sponsorship prospectus](https://drive.google.com/open?id=1LB6kG72pypIjTGs
 
 Temos uma pasta [Patrocínio](https://drive.google.com/drive/folders/1uStlqZzUjq7icEXMd4qbqz5De2feECpW?usp=sharing) no Drive.
 
-## Patrocínio Fechado
+## Fechando um Patrocínio
 
 Consideramos um patrocínio fechado quando algum dos eventos abaixo acontecem:
 
@@ -16,14 +16,25 @@ Consideramos um patrocínio fechado quando algum dos eventos abaixo acontecem:
 * PO gerado internamente
 * Patrocinador recorrente confirma o interesse
 
-### Pagamento
+## Contrato e Pagamento
 
-Veja [Financeiro](financeiro.md)
+Veja [Financeiro](financeiro.md).
 
-### Anúncio
+## Anúncio
 
 Uma vez que temos a confirmação de patrocínio, procedemos com a etapa de
 anunciar o apoio. Temos duas etapas apenas:
 
 1. Adicionar a logo do patrocinador no site da conferência;
 2. Divulgar nas redes sociais da conferência a boa notícia.
+
+Veja [Comunicação](comunicacao.md) para os detalhes de como fazer a divulgação.
+
+## Logísticas
+
+Temos algumas logísticas necessárias:
+
+* Enviar código de desconto para inscrição.
+* Ajudar com a preparação estande no evento.
+* Ajudar com a preparação de materiais pros participantes.
+* Se tiver keynote, ajudar na preparação.
