@@ -83,7 +83,7 @@ Nós estamos no Instagram em:
 
 https://www.instagram.com/linuxdevbr/
 
-Atualmente não mantida e só o Rafael Beraldo deve ter acesso.
+Veja acessos dentro da pasta de Comunicação no Google Drive.
 
 ### Site
 
