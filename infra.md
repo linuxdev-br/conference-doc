@@ -23,8 +23,6 @@ Nós usamos o [pretalx](https://github.com/pretalx/pretalx) instalado numa inst�
 
 * board@ -> linuxdev-br@googlegroups.com
 * contact@ -> linuxdev-br@googlegroups.com
-* submissions@ -> linuxdev-br@googlegroups.com
-* volunteers@ -> linuxdev-br-volunteers@googlegroups.com
 
 ### mailbox no gandi.net
 
@@ -35,7 +33,6 @@ Pro nosso sistema de CFP mandar e-mail a gente precisa de um mailbox.
 ## Grupos de e-mail
 
 * Grupo do Board: linuxdev-br@googlegroups.com
-* Grupo pra Voluntários: linuxdev-br-volunteers@googlegroups.com
 
 ## Telegram
 

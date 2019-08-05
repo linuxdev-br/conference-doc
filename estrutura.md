@@ -12,23 +12,26 @@ Temos um [Trello](https://trello.com/b/m1lGPGE3/linuxdev-br-2019).
 
 ### Board
 
-O Board 2019 é composto por:
-* Bruno Dilly
-* Gabriel F. T. Gomes
-* Gustavo Padovan
-* João Moreira
+O Board é composto por:
 
-As principais e mais importantes decisões são tomadas pelo Board. Cabe ao Diretor Executivo garantir a execução das tarefas.
+* Ana Rute Mendes - *Director's Director*
+* Bruno Dilly *Financial Director*
+* Gabriel F. T. Gomes - *Program Director*
+* Gustavo Padovan - *Executive Director*
+* João Moreira - *Communications Director*
+
+
+As principais e mais importantes decisões são tomadas pelo Board. 
 
 ### Papéis
 
-Nesse momento nós temos 3 papéis bem definidos:
+Nesse momento nós temos 4 papéis bem definidos:
 
 #### **Diretor Executivo** 
 
 Quem? *Gustavo Padovan*
 
-Responsável pela visão global, trabalha com o time pra criar e acompanhar a execução de planos em todas as áreas da organização.
+Responsável pela visão global, estratégia de médio e longo prazo, prospecção de patrocínio e  relacionamento com patrocinadores.
 
 #### **Diretor Financeiro**
 
@@ -42,9 +45,9 @@ Quem? *Gabriel F. T. Gomes*
 
 Responsável pela criação e execução, do CFP, revisão de submissões e agenda do evento. Pode delegar funções e tarefas.
 
-#### **Coordedorx de Comunicação e Marketing**
+#### **Diretor de Comunicação**
 
-Quem?
+Quem? *João Moreira*
 
 Responsável por garantir que comunicação com participantes e/ou sponsors aconteça. Veja [comunicacao.md](comunicacao.md) pra uma definição de Comunicação e Marketing.
 
@@ -56,8 +59,6 @@ Responsável por garantir que comunicação com participantes e/ou sponsors acon
 
 #### Papéis indefinidos
 
-Outros papéis ainda estão de alguma maneira indefinidos, dentre eles: Relacionamento com Patrocinadores, Infraestrutura online, Logistica (área com várias subáreas), Inscrições, etc. (TODO: expandir e definir melhor)
-
 Ainda tem muito conhecimento de todas as áreas acima que basicamente só existem dentro da cabeça do Gustavo Padovan. Passo a passo pretendemos documentar tudo.
 
-Pra aumentar a qualidade do evento e facilitar a organização está entre os objetivos da organização contratar uma pessoa pra fazer o trabalho de dia-a-dia em Marketing, Logística e Conteúdo do Website dentre outras coisas.
+Pra aumentar a qualidade do evento e facilitar a organização está entre os objetivos da organização contratar uma pessoa pra fazer o trabalho Operacional do evento.

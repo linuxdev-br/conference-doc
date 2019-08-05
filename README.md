@@ -1,6 +1,10 @@
-# linuxdev-br conference doc
+# linuxdev-br conference
 
-Este repositório contém conhecimentos e informaçÕes que a gente construi ao longo do tempo. Nosso objetivo é manter as informaçòes públicas aqui e deixar links pra documentos privados quando necessário.
+Desde sua primeira edição a linuxdev-br é uma organização sem fins lucrativos, gerida por membros da comunidade para a comunidade.
+
+## documentação
+
+Este repositório contém conhecimentos e informações que a gente construi ao longo do tempo. Nosso objetivo é manter as informaçòes públicas aqui e deixar links pra documentos privados quando necessário.
 
 [Missão](missao.md): Nossa missão (em inglês).
 
@@ -14,7 +18,7 @@ Este repositório contém conhecimentos e informaçÕes que a gente construi ao 
 
 [Programa](programa.md): Do CFP até a montagem da grade de programação.
 
-[Inscrição](inscricao.md): Detalha nosso processo de incrição.
+[Inscrição](inscricao.md): Detalha nosso processo de inscrição.
 
 [Comunicação e Marketing](comunicacao.md): Sobre como cuidamos de inicitivas de Comunição e Marketing com o público alvo.
 
