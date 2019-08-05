@@ -18,10 +18,10 @@ Este repositório contém conhecimentos e informações que a gente construi ao 
 
 [Programa](programa.md): Do CFP até a montagem da grade de programação.
 
-[Inscrição](inscricao.md): Detalha nosso processo de inscrição.
-
 [Comunicação e Marketing](comunicacao.md): Sobre como cuidamos de inicitivas de Comunição e Marketing com o público alvo.
 
 [Infraestrutura](infra.md): Info sobre linuxdev-br.net e alias de e-mail e listas de e-mails, website e sistema  de CFP.
+
+[Operacional](operacional.md): Logísticas diversas, incrições, segundo contato com patrocinadores.
 
 [Pasta de Documentos](https://drive.google.com/drive/folders/0B7UFSRm5Zv8kQl9vRnEyTExlUGc?usp=sharing): Nós temos pasta de documentos no Google Drive.
