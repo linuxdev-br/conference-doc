@@ -14,7 +14,7 @@ Temos um [Trello](https://trello.com/b/m1lGPGE3/linuxdev-br-2019).
 
 O Board é composto por:
 
-* Ana Rute Mendes - *Director's Director*
+* Ana Rute Mendes - *Director's Director*, *Diversity & Inclusion Office*
 * Bruno Dilly *Financial Director*
 * Gabriel F. T. Gomes - *Program Director*
 * Gustavo Padovan - *Executive Director*
