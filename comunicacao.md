@@ -61,13 +61,13 @@ https://twitter.com/linuxdevbr
 
 Veja acessos dentro da pasta de Comunicação no Google Drive.
 
-#### Facebook
+#### Instagram
 
-Nós estamos no Facebook em:
+Nós estamos no Instagram em:
 
-https://www.facebook.com/linuxdevbr
+https://www.instagram.com/linuxdevbr/
 
-@padovan, @lvwr e @helen-fornazier são Admins. Peça acesso pra eles.
+Veja acessos dentro da pasta de Comunicação no Google Drive.
 
 #### Linkedin
 
@@ -77,13 +77,13 @@ https://www.linkedin.com/company/linuxdev-br/
 
 @bdilly, @gftg85, @padovan, @lvwr e @helen-fornazier são Admins. Peça acesso pra eles.
 
-#### Instagram
+#### YouTube
 
-Nós estamos no Instagram em:
+Nós estamos no YouTube em:
 
-https://www.instagram.com/linuxdevbr/
+https://www.youtube.com/c/linuxdevbr
 
-Veja acessos dentro da pasta de Comunicação no Google Drive.
+@padovan, @gtfg85 são Owners
 
 ### Site
 
