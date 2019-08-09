@@ -2,9 +2,9 @@
 
 Desde sua primeira edição a linuxdev-br é uma organização sem fins lucrativos, gerida por membros da comunidade para a comunidade.
 
-## documentação
+## Documentação
 
-Este repositório contém conhecimentos e informações que a gente construi ao longo do tempo. Nosso objetivo é manter as informaçòes públicas aqui e deixar links pra documentos privados quando necessário.
+Este repositório contém conhecimentos e informações que a gente construiu ao longo do tempo. Nosso objetivo é manter as informaçòes públicas aqui e deixar links para documentos privados quando necessário.
 
 [Missão](missao.md): Nossa missão (em inglês).
 
@@ -18,10 +18,10 @@ Este repositório contém conhecimentos e informações que a gente construi ao 
 
 [Programa](programa.md): Do CFP até a montagem da grade de programação.
 
-[Comunicação e Marketing](comunicacao.md): Sobre como cuidamos de inicitivas de Comunição e Marketing com o público alvo.
+[Comunicação e Marketing](comunicacao.md): Sobre como cuidamos de inicitivas de Comunicação e Marketing com o público alvo.
 
-[Infraestrutura](infra.md): Info sobre linuxdev-br.net e alias de e-mail e listas de e-mails, website e sistema  de CFP.
+[Infraestrutura](infra.md): Info sobre linuxdev-br.net, alias de e-mails, listas de e-mails, website e sistema de CFP.
 
-[Operacional](operacional.md): Logísticas diversas, incrições, segundo contato com patrocinadores.
+[Operacional](operacional.md): Logísticas diversas, inscrições, segundo contato com patrocinadores, etc.
 
 [Pasta de Documentos](https://drive.google.com/drive/folders/0B7UFSRm5Zv8kQl9vRnEyTExlUGc?usp=sharing): Nós temos pasta de documentos no Google Drive.
