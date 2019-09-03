@@ -9,6 +9,7 @@ Logísticas diversas, inscrições, segundo contato com patrocinadores, etc.
 * tem que ter um espaço de hall grande pra caber todo mundo + coffee break + estandes
 * tem que wifi boa pra todos os participantes (se for caro podemos ver de wifi ser uma opção de patrocínio)
 * tem que ter cadeiras/sofás pra pessoas descansarem, talvez até algo mais elaborado como um lounge
+* tem que ter uma aparência profissional (espaço, montagem, audiovisual, coffee-break, etc) pra promovermos uma ótima experiência pra comunidade e ao mesmo tempo ser atrativa pro mundo corporativo (CEOs, diretores e gerentes fazem parte do público alvo da conferência)
 * opcional: ter uma sala com mesas e internel pra mídia e palestrantes
 * opcional: ter um espaço hacker, com mesas montadas pra pessoas sentarem e trabalharem juntas
 
