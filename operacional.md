@@ -5,7 +5,7 @@ Logísticas diversas, inscrições, segundo contato com patrocinadores, etc.
 ## Espaço
 
 * precisamos de uma sala grande pra 270~300 pessoas
-* precisamos de 3 salas de ~100 pessoas cada (seria bom se a sala grande fosse modular e se dividisse em 3)
+* precisamos de 3 salas de ~120 pessoas cada (seria bom se a sala grande fosse modular e se dividisse em 3)
 * tem que ter um espaço de hall grande pra caber todo mundo + coffee break + estandes
 * tem que wifi boa pra todos os participantes (se for caro podemos ver de wifi ser uma opção de patrocínio)
 * tem que ter cadeiras/sofás pra pessoas descansarem, talvez até algo mais elaborado como um lounge
