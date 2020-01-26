@@ -2,7 +2,7 @@
 
 ## Prospecção de Patrocínio
 
-Nosso [sponsorship prospectus](https://drive.google.com/open?id=1LB6kG72pypIjTGs3apLYR45MFrB4iYPAfx_4nCHznqs) e em [pdf](linuxdev-br_2019-sponsorship-prospectus-v1.pdf)
+Nosso [sponsorship prospectus 2020](https://docs.google.com/presentation/d/1xuTZt9wO5EBiHPbdByo7jjaZwIDn4q7DR8oDouAbEnM/edit) e em [pdf](linuxdev-br2020_sponsorship-prospectus.pdf)
 
 ### Contatos de patrocinadores antigos e atuais
 
@@ -30,11 +30,14 @@ anunciar o apoio. Temos duas etapas apenas:
 
 Veja [Comunicação](comunicacao.md) para os detalhes de como fazer a divulgação.
 
-## Logísticas
+## Estapa de Produção
 
 Temos algumas logísticas necessárias:
 
 * Enviar código de desconto para inscrição.
 * Ajudar com a preparação estande no evento.
 * Ajudar com a preparação de materiais pros participantes.
-* Se tiver keynote, ajudar na preparação.
+
+## Keynotes
+
+Se o palestrante tiver keynote, ajudar na preparação. Tarefa do Gustavo Padovan.

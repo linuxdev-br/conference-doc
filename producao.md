@@ -1,4 +1,4 @@
-# Operacional
+# Produção
 
 Logísticas diversas, inscrições, segundo contato com patrocinadores, etc.
 
@@ -13,12 +13,20 @@ Logísticas diversas, inscrições, segundo contato com patrocinadores, etc.
 * opcional: ter uma sala com mesas e internel pra mídia e palestrantes
 * opcional: ter um espaço hacker, com mesas montadas pra pessoas sentarem e trabalharem juntas
 
+### Alvará de funcionamento
+
+Pode ser que o espaço precise de alvará. Em São Paulo, por exemplo, a gente precisa de [alvará](https://leismunicipais.com.br/a/sp/s/sao-paulo/decreto/2008/4996/49969/decreto-n-49969-2008-regulamenta-a-expedicao-de-auto-de-licenca-de-funcionamento-alvara-de-funcionamento-alvara-de-autorizacao-para-eventos-publicos-e-temporarios-e-termo-de-consulta-de-funcionamento-em-consonancia-com-as-leis-n-10205-de-4-de-dezembro-de-1986-e-n-13-885-de-25-de-agosto-de-2004-revoga-os-decretos-e-a-portaria-que-especifica) para eventos maiores de 250 pessoas.
+
 ## Coffee break
 
 * tem que ter comida vegan e vegetariana (talvez até reduzir as opções com carne pra facilitar)
 * tem que ter identificação escrita do que é cada comida
 
-## Audiovisual
+## Audiovisual para palestras
 
 * garantir que a cabo de HDMI está montado no palco e não na mesa de som
-* opcional: microfone e som no hall seria interessante pra avisar quando as palestras estão começando
+* opcional: microfone e som no hall seria interessante pra avisar quando as palestras estão começando.
+
+## Gravação da Palestras e Produção de Vídeos
+
+Temos o Jean Marcel fazendo isso pra gente.

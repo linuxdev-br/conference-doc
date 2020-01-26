@@ -36,4 +36,4 @@ Pro nosso sistema de CFP mandar e-mail a gente precisa de um mailbox.
 
 ## Telegram
 
-Temos um grupo do board no Telegram. Fale com alguém do Board pra ser adicionado.
+Temos um grupo do board no Whatsapp. Fale com alguém do Board pra ser adicionado.
