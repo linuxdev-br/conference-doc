@@ -4,9 +4,9 @@
 
 No momento o linuxdev-br.net é propriedade do Gustavo Padovan, gerenciado na conta dele no gandi.net (TODO: transferir pra linuxdev-br)
 
-## Console Google Cloud
+## Instância no DigitalOcean
 
-Temos um [Console](https://console.cloud.google.com/compute/instances?project=linuxdev-br-1520102672599) no Google Cloud. Gustavo Padovan, Gabriel Gomes e João Moreira, Bruno Dilly e Ana Rute tem acesso.
+Temos um instância no [DigitalOcean](https://cloud.digitalocean.com/). Gustavo Padovan tem acesso.
 
 ## Website
 
@@ -14,7 +14,7 @@ O site e feito em [gatsbyjs](https://www.gatsbyjs.org/) e o [source](https://git
 
 ## sistema de CFP
 
-Nós usamos o [pretalx](https://github.com/pretalx/pretalx) instalado numa instâcia GCE do nosso console.
+Nós usamos o [pretalx](https://github.com/pretalx/pretalx) instalado no DigitalOcean em [program.linuxdev-br.net](https://program.linuxdev-br.net/).
 
 
 ## E-mail
@@ -34,6 +34,6 @@ Pro nosso sistema de CFP mandar e-mail a gente precisa de um mailbox.
 
 * Grupo do Board: linuxdev-br@googlegroups.com
 
-## Telegram
+## Whatsapp
 
 Temos um grupo do board no Whatsapp. Fale com alguém do Board pra ser adicionado.
