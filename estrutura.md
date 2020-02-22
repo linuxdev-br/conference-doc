@@ -1,10 +1,10 @@
 # Estrutura da Organização
 
-Com o passar do tempo nosso time tem crescido e alguns papéis tem se estabelido mais claramente.
+Com o passar do tempo nosso time tem crescido e alguns papéis tem se estabelecido mais claramente.
 
 ### Meios de Comunicação
 
-A maior parte das discussões acontece nas reuniões, lista de e-mail do Board, ou grupo do Telegram.
+A maior parte das discussões acontece nas reuniões, grupo de WhatsApp e lista de e-mail do Board.
 
 ### Gerenciamento de Tarefas
 
@@ -18,47 +18,61 @@ O Board é composto por:
 * Bruno Dilly *Financial Director*
 * Gabriel F. T. Gomes - *Program Director*
 * Gustavo Padovan - *Executive Director*
-* João Moreira - *Communications Director*
+* João Moreira
 
 
 As principais e mais importantes decisões são tomadas pelo Board. 
 
-### Papéis
+### áreas
 
-Nesse momento nós temos 4 papéis bem definidos:
+Nesse momento nós temos algunas áreas bem definidas:
 
-#### **Diretor Executivo** 
+#### **Direção Executiva** 
 
-Quem? *Gustavo Padovan*
+> Quem? *Gustavo Padovan*
 
-Responsável pela visão global, estratégia de médio e longo prazo, prospecção de patrocínio e  relacionamento com patrocinadores.
+Responsável pela visão global do evento. Dentre as responsabilidades estão:
 
-#### **Diretor Financeiro**
+* Definir estratégia de médio e longo prazo
+* Prospecção de patrocínio e relacionamento com patrocinadores
+* Recrutar e acomodar novos membros no board
+* Coordernar iniciativas de Marketing
 
-Quem? *Bruno Dilly*
+#### **Financeiro**
 
-Responsável pelo gerenciamento financeiro, recebimentos e pagamentos. Pode delegar funções e tarefas.
+> Quem? *Bruno Dilly*
 
-#### **Diretor do Programa**
+Responsável pelo gerenciamento financeiro, contratos, recebimentos e pagamentos. Pode delegar funções e tarefas.
 
-Quem? *Gabriel F. T. Gomes*
+#### **Programa**
+
+> Quem? *Gabriel F. T. Gomes*
 
 Responsável pela criação e execução, do CFP, revisão de submissões e agenda do evento. Pode delegar funções e tarefas.
 
-#### **Diretor de Comunicação**
+#### **Comunicação**
 
-Quem? *João Moreira*
+> Quem? 
 
-Responsável por garantir que comunicação com participantes e/ou sponsors aconteça. Veja [comunicacao.md](comunicacao.md) pra uma definição de Comunicação e Marketing.
+Responsável por garantir que a comunicação antija o público alvo. Veja [comunicacao.md](comunicacao.md) pra uma definição de Comunicação.
 
 * Pró-atividade propondo iniciativas comunicação.
-* Pode cuidar iniciativas vindas do Board.
-* Recebe do board instruções de como criar cada campanha e/ou sugere opções.
-* Coordena execeção de comunicação com outros envolvidos (por exemplo, outras pessoas podem ser reponsáveis por fazer certas comuniçãos, como mandar mensagem em grupos de facebook, ou falar com comunidades, mas é pessoa responsável por Coordenação de Comunicação e Marketing que coordena).
-* Garante que o site e sistema de vendas de Entradas tenham as informações necessárias.
+* Pode cuidar de iniciativas vindas do Board.
+* Coordena inicitivas de comunicação com outros envolvidos (por exemplo, outras pessoas podem ser reponsáveis por fazer certas comuniçãos, como mandar mensagem em grupos de facebook, ou falar com comunidades, mas é pessoa responsável por Coordenação de Comunicação e Marketing que coordena).
+* Garante que o site e sistema de vendas de ingressos tenham as informações necessárias.
+* Responde dúvidas que chegam por e-mail.
+* Mantém canal aberto com comunidades
 
-#### Papéis indefinidos
+#### Diversidade e Inclusão
 
-Ainda tem muito conhecimento de todas as áreas acima que basicamente só existem dentro da cabeça do Gustavo Padovan. Passo a passo pretendemos documentar tudo.
+> Quem? *Ana Rute*
 
-Pra aumentar a qualidade do evento e facilitar a organização está entre os objetivos da organização contratar uma pessoa pra fazer o trabalho Operacional do evento.
+Responsável por promover iniciativas na área.
+
+### Produção
+
+> Quem? *Ana Rute, Bruno Dilly e Gustavo Padovan*
+
+Produz o evento físico, espaço, coffee-break, happy-hour, camisetas, etc. Ver [Produção](producao.md).
+
+TODO: Queremos contratar alguém pago pra essa área.
