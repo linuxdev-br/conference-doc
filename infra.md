@@ -8,11 +8,17 @@ No momento o linuxdev-br.net é propriedade do Gustavo Padovan, gerenciado na co
 
 Temos um instância no [DigitalOcean](https://cloud.digitalocean.com/). Gustavo Padovan tem acesso.
 
-## Website
+## GitHub
+
+Estamos em [github.com/linuxdev-br](https://github.com/linuxdev-br). Peça pra alguém do board te adicionar como membro.
+
+## Site
 
 O site e feito em [gatsbyjs](https://www.gatsbyjs.org/) e o [source](https://github.com/linuxdev-br/site/) e [deploy](https://github.com/linuxdev-br/linuxdev-br.github.io/) estão no GitHub.
 
-## sistema de CFP
+O site usa Google Analytics para medir tráfego. O dashboard está disponível [aqui](https://analytics.google.com/analytics/web/#/report-home/a156901042w220961186p210132521). Se você ainda não tem acesso, pode enviar um email pro board pedindo que liberamos.
+
+## Sistema de CFP
 
 Nós usamos o [pretalx](https://github.com/pretalx/pretalx) instalado no DigitalOcean em [program.linuxdev-br.net](https://program.linuxdev-br.net/).
 
