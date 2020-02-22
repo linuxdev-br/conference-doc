@@ -20,6 +20,8 @@ Este repositório contém conhecimentos e informações que a gente construiu ao
 
 [Comunicação e Marketing](comunicacao.md): Sobre como cuidamos de inicitivas de Comunicação e Marketing com o público alvo.
 
+[Comunidades](comunicacao.md): Sobre nossas inicitivas pra comunidades.
+
 [Infraestrutura](infra.md): Info sobre linuxdev-br.net, alias de e-mails, listas de e-mails, website e sistema de CFP.
 
 [Operacional](operacional.md): Logísticas diversas, inscrições, segundo contato com patrocinadores, etc.
