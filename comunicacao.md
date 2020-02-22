@@ -52,13 +52,13 @@ Um dos objetivos é que essa parcela de pessoas mais próximas das comunidades u
 
 ## Como fazer divulgações
 
-Comunicações importantes tem que ser divulgadas em via uma série de meios, segue uma receita do processo:
+Comunicações importantes tem que ser divulgadas em via uma série de meios, segue uma receita do processo. Há também um *template card* no Trello chamado "Divulgação". Crie o card da nova iniciativa usando o *template*.
 
 ### 1. Escrever e revisar versões em inglês e português dos textos
 
 Nós já temos muitos texto escritos de edições passadas que podem ser usadas como base. Veja a pasta [Textos](https://drive.google.com/drive/folders/191E04q-3UKY_Dhm6LYNARDQe3GRyrXbP?usp=sharing). Sempre peça pra outros membros do board revisar seu texto.
 
-### 2. Publicar a duas versões no site
+### 2. Publicar as duas versões no site
 
 Pra publicar no site tem que adicionar o texto da notícia no repo do [GitHub](https://github.com/linuxdev-br/site) dentro da pasta [`blog/`](https://github.com/linuxdev-br/site/tree/master/src/blog) e fazer um novo deploy (veja o README do site, e em em breve vamos configurar autodeploy)
 

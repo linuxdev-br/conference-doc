@@ -23,7 +23,7 @@ O Board é composto por:
 
 As principais e mais importantes decisões são tomadas pelo Board. 
 
-### áreas
+### Áreas
 
 Nesse momento nós temos algunas áreas bem definidas:
 
