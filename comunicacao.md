@@ -88,7 +88,7 @@ Temos um grupo em [t.me/linuxdevbr](https://t.me/linuxdevbr ) pra nos comunicarm
 
 ### 7. Postar nas Redes Sociais
 
-Colocar no Twitter, Linkedin e Instagram. 
+Colocar no Twitter, Linkedin e Instagram. Para comunicações que usem imagens, modificar o arquivo base adicionando uma frase curta que sintetize a mensagem. O arquivo base e um exemplo podem ser encontrados na pasta Visuais, no Drive.
 
 ### 8. Grupos de Facebook
 
