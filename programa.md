@@ -1,6 +1,6 @@
 # Programa
 
-O programa é dividido em algumas fases
+O programa é dividido em algumas fases. Veja as datas pra 2020 [aqui](https://docs.google.com/document/d/17_XIiLZEABs1_2m4uYRxJNUOjqhJ31V7Oi7ozoytTBo/edit?usp=sharing).
 
 TODO:
 - mencionar e-mails que o Gabs enviou no ano passado pra várias das atividades abaixo. Já temos isso pronto. 
